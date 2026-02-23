@@ -154,4 +154,17 @@ button:hover {
   }
 }
 
+.tool-title {
+  max-width: 970px;
+  margin: 4px 0;
+  padding: 4px 4px 4px 8px;
+  font-size: 1.4rem;
+  font-weight: 700;
+  background: #ffffff;
+  border: 1px solid #999;
+  border-radius: 10px;
+  text-align: left;
+}
+
+
 
