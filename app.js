@@ -239,7 +239,3 @@ function update() {
 refreshFavoriteList();
 update();
 
-
-}
-
-
